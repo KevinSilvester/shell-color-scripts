@@ -1,6 +1,6 @@
 # Shell Color Scripts
 
-> ## This repo is forked from 'https://gitlab.com/dwt1/shell-color-scripts'
+> #### This repo is forked from 'https://gitlab.com/dwt1/shell-color-scripts'
 
 ![Screenshot of shell-color-scripts](https://gitlab.com/dwt1/dotfiles/raw/master/.screenshots/dotfiles12.png)
 
