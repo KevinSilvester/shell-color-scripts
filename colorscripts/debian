@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 # Based on ufetch-debian
 # https://gitlab.com/jschx/ufetch/-/blob/master/ufetch-debian
 

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
   
 # Author: ishaanbhimwal@gmail.com
 # ANSI Color -- use these variables to easily have different color
